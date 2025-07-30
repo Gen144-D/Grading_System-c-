@@ -1,0 +1,11 @@
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\obj\Debug\Grading_system.csproj.AssemblyReference.cache
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\obj\Debug\Grading_system.Properties.Resources.resources
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\obj\Debug\Grading_system.csproj.GenerateResource.cache
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\obj\Debug\Grading_system.csproj.CoreCompileInputs.cache
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\bin\Debug\Grading_system.exe.config
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\bin\Debug\Grading_system.exe
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\bin\Debug\Grading_system.pdb
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\obj\Debug\Grading_system.exe
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\obj\Debug\Grading_system.pdb
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\obj\Debug\Grading_system.exe.config
+C:\Users\junjundiaz24\source\repos\Genesis\Grading_system\obj\Debug\Grading_system.Grading_System.resources
